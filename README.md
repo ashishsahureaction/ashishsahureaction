@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashish Sahu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Banking-CRM Project**
+- 🔭 I’m currently working on **Banking-CRM-Thread Project**
 
-- 🌱 I’m currently learning **Nextjs-Thread**
+- 🌱 I’m currently learning **AI-ML**
+
+- 👯 I’m looking to collaborate on **Fintech Project**
 
 - 💬 Ask me about **next react angular redux**
 
 - 📫 How to reach me **ashishsahu.reaction@gmail.com**
+
+- ⚡ Fun fact **Sometimes funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
